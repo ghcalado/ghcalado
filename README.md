@@ -5,47 +5,46 @@
 
 ---
 
-Backend developer focado em construir sistemas robustos, escaláveis e bem estruturados.  
-Apaixonado por arquitetura limpa, APIs eficientes e bancos de dados relacionais.
+### 🚀 Aspirante a Engenheiro de Machine Learning & Backend Developer
+Focado em transformar dados em inteligência através de sistemas escaláveis e arquitetura limpa.
 
 ---
 
-🟢 Disponível para projetos e oportunidades — Maceió, AL · Brasil
+### 🛠️ Stack Principal
+
+**AI & Data Science:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Backend & Infra:**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### Stack principal
+### 🎯 Áreas de Atuação
 
-![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-green?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite%20%2F%20SQL-purple?style=flat-square&logo=sqlite&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-orange?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-red?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-gray?style=flat-square)
+* **Machine Learning:** Modelagem preditiva, tratamento de dados desbalanceados (SMOTE) e Explainable AI (XAI).
+* **Backend Engineering:** Construção de APIs robustas, modelagem de bancos de dados e automação.
+* **Data Pipelines:** Ingestão, limpeza e transformação de dados para produção.
 
 ---
 
-### Áreas de foco
+### 📈 Projetos em Destaque
 
-**Desenvolvimento de APIs**  
-Design e implementação de endpoints RESTful com Flask, autenticação e documentação clara.
-
-**Modelagem de dados**  
-Estruturação eficiente de bancos de dados relacionais com SQLite, schemas limpos e consultas otimizadas.
-
-**Automação com Python**  
-Scripts para processamento de dados, tarefas repetitivas e integração entre sistemas.
-
-**Boas práticas**  
-Código limpo, versionamento com Git, testes e documentação como parte natural do processo.
+* **[Employee Attrition Predictor](https://github.com/ghcalado/attrition-predictor):** Sistema end-to-end de predição de rotatividade com Random Forest e dashboard interativo em Streamlit.
 
 ---
 
 <div align="center">
 
-| Linguagem principal | Framework web | Persistência de dados |
+| Core | Modelagem | Interface |
 |:---:|:---:|:---:|
-| **Python** | **Flask** | **SQL** |
+| **Python / SQL** | **Scikit-Learn** | **Streamlit** |
 
 </div>
 
@@ -53,4 +52,5 @@ Código limpo, versionamento com Git, testes e documentação como parte natural
 
 ### Contato
 
-[![GitHub](https://img.shields.io/badge/github.com%2Fghcalado-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ghcalado)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ghcalado)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](SEU_LINK_AQUI)
