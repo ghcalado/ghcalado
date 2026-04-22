@@ -36,7 +36,7 @@ Focado em transformar dados em inteligência através de sistemas escaláveis e 
 
 ### 📈 Projetos em Destaque
 
-* **[Employee Attrition Predictor]([https://github.com/ghcalado/churn-classifier](https://github.com/ghcalado/churn-classifier)):** Sistema end-to-end de predição de rotatividade com Random Forest e dashboard interativo em Streamlit.
+* **[Employee Attrition Predictor]([https://github.com/ghcalado/churn-classifier])(:** Sistema end-to-end de predição de rotatividade com Random Forest e dashboard interativo em Streamlit.
 
 ---
 
@@ -53,4 +53,4 @@ Focado em transformar dados em inteligência através de sistemas escaláveis e 
 ### Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ghcalado)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghabriel-calado-7132a33b6/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghabriel-calado-7132a33b6/)
