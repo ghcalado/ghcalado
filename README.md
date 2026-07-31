@@ -21,7 +21,7 @@ Maceió, Alagoas · Brasil
 
 Sou estudante de **Ciência da Computação na Afya Unima** e desenvolvedor com foco em Backend, Inteligência Artificial e Machine Learning.
 
-Gosto de compreender sistemas por inteiro — da modelagem dos dados e construção das APIs até a experiência entregue ao usuário. Já desenvolvi software para clientes reais, pipelines de Machine Learning, aplicações com RAG e soluções de Visão Computacional.
+Gosto de compreender sistemas por inteiro, da modelagem dos dados e construção das APIs até a experiência entregue ao usuário. Já desenvolvi software para clientes reais, pipelines de Machine Learning, aplicações com RAG e soluções de Visão Computacional.
 
 ```text
 Objetivo: transformar problemas complexos em produtos claros, confiáveis e úteis.
